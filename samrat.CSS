@@ -1,0 +1,58 @@
+body {
+    padding-top: 5rem;
+  }
+  
+  body, html {
+    height: 100%;
+  }
+  
+  .video-wrapper {
+    width: 100%;
+    /*background-color: lightblue;*/
+  }
+  
+  section {
+    margin: 1rem;
+    padding: 2rem;
+    background-color: rgb(228, 238, 87);
+    border-radius: 2em;
+  }
+  #f1{
+    color: rgb(201, 5, 5);
+  }
+  #f2
+{
+  color: rgba(3, 46, 185, 0.541);
+}
+  #myself
+{
+  color: rgb(59, 76, 230);
+  margin-left: -10%;
+}
+
+  .weight
+{
+color: rgb(243, 188, 6);
+}
+#s1
+{
+  color: rgb(59, 28, 6);
+}
+#text
+{
+  color: rgb(157, 160, 4);
+}
+#t1
+{
+  color: rgba(255, 248, 248, 0.432);
+}
+.bgimg {
+    background-image: url("https://github.com/SAISAMRATADLOORI/aboutme/blob/master/road.jpg?raw=true");
+    height: 100%;
+    position: relative;
+    opacity: 0.85;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed; /* fixed in viewport */
+  }
